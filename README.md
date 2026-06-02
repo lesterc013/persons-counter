@@ -49,5 +49,3 @@ Two possible mitigations were considered:
 ### Result
 
 Given time constraints, I opted to demonstrate a working AI inference pipeline rather than pursue model fine-tuning. The model was run at several confidence thresholds and the range of count was around **18 to 20 persons over 23 seconds**.
-
-This gives a conservative baseline arrival rate of **~1 person/second**, which will be used as in the simulation.
